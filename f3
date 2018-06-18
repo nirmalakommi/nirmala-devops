@@ -1,0 +1,18 @@
+
+git log
+
+git log -5
+
+git log --oneline
+
+git log --oneline -5
+
+git log --author=shankar
+
+git log --author=shankar -2 --oneline
+
+git log --since=yy-mm-dd   
+
+git log --until=yy-mm-dd
+
+git log --since=yy-m:
